@@ -1,3 +1,2 @@
-#
-Chat App
+# Chat App
 Learning to use websocket other technologies.
